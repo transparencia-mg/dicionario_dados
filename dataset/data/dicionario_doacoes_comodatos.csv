@@ -1,0 +1,13 @@
+﻿campo;descricao
+ano;Ano de publicação, no Diário Oficial do Estado, do ato que autorizou o recebimento de doação ou de bem em comodato.
+codigo orgao entidade;Código da unidade orçamentária do órgão ou entidade beneficiada.
+orgao entidade;Unidade orçamentária do órgão ou entidade beneficiada.
+cnpj / cpf doador comodante;CNPJ ou CPF do doador ou comodante.
+doador comodante;Nome do doador ou comodante.
+objeto;Objeto da doação ou comodato.
+quantitativo;Quantitativo, quando for o caso, do objeto da doação ou comodato.
+vigencia;Vigência do Comodato.
+valor;Valor estimado do bem ou serviço doado ou oferecido em comodato. Pode ser em moeda nacional ou estrangeira.
+moeda;Moeda corrente do valor da doação ou comodato. Valores possíveis: BRL (reais) ou EUR (euros).
+processo sei;Número do processo eletrônico no Sistema Eletrônico de Informações (SEI) que identifica a avaliação das propostas de doação ou oferta de bens em comodato realizada pela Secretaria de Estado de Planejamento e Gestão (SEPLAG).
+integra termo doacao comodato;Link para Íntegra do termo de doação ou comodato.

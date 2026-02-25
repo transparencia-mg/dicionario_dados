@@ -1,0 +1,27 @@
+﻿campo;descricao
+Ano Exercício  Inciso;Ano correspondente ao exercício financeiro da emenda.
+Descrição Origem;Descrição da origem da indicação da emenda.
+Nome do Responsável;Nome do responsável pela indicação da emenda.
+Nº Indicação - SIGCON;Número da indicação no sistema SIGCON (Sistema de Gestão de Convênios).
+Status da Indicação;Situação atual da indicação (exemplo: aprovada, pendente, rejeitada).
+Nº Instrumento;Número do instrumento da emenda.
+Nº SIAFI;Número do sistema SIAFI (Sistema Integrado de Administração Financeira) ao qual a emenda está vinculada
+Status Instrumento;Situação atual do instrumento (exemplo: vigente, cancelado).
+Tipo de Indicação;Tipo de indicação da emenda.
+Tipo de Atendimento / Tipo de Aplicação;Tipo de atendimento prestado ou aplicação da emenda
+Descrição Indicação;Texto explicativo sobre o conteúdo da indicação.
+Órgão - Sigla;Sigla do órgão beneficiário ou responsável pela execução da emenda.
+Código da Ação;Código que identifica a ação vinculada à emenda.
+Nome da Ação do Inciso;Nome descritivo da ação vinculada à emenda.
+Grupo de Despesa;Classificação do grupo de despesa associado à emenda.
+Função do Inciso;Código da função pública associada à emenda.
+Município;Município beneficiado pela emenda.
+Beneficiário - Nome;Nome do beneficiário final da emenda.
+Beneficiário - CNPJ;Número do CNPJ do beneficiário (pessoa jurídica).
+Valor Indicação;Valor total indicado para a emenda.
+Valor Utilizado;Valor efetivamente utilizado da emenda.
+Valor Empenhado no Ano da Emenda;Valor empenhado no ano referente à emenda.
+Valor Liquidado no Ano da Emenda;Valor liquidado (reconhecido para pagamento) no ano da emenda.
+Valor Pago no Ano da Emenda;Valor pago no ano da emenda.
+Valor Pago Atual;Valor pago até a data atual, independente do ano.
+Justificativa de Reprovação;Motivo da reprovação, caso a indicação tenha sido rejeitada.
