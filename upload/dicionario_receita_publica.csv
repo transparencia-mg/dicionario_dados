@@ -1,0 +1,21 @@
+﻿Campo;Descrição
+Classificação da receita;" Classificação criada a fim de possibilitar a identificação detalhada dos recursos que ingressam nos cofres públicos. Os números representam, da esquerda para a direita  categoria econômica; origem da receita; espécie da receita; desdobramento 1 da receita, desdobramento 2 da receita, desdobramento 3 da receita, tipo da receita."
+Categoria econômica da receita; Primeiro nível de classificação orçamentária das receitas, dividindo-as em receitas correntes e receitas de capital.
+Origem da receita; Detalhamento das categorias econômicas. Identifica a procedência das receitas no momento em que ingressam nos cofres públicos. Ex: Impostos, taxas e contribuições de melhoria, Contribuições, Operações de crédito, Receita agropecuária, etc.
+Espécie da Receita; Nível da classificação vinculado à origem, detalha o fato gerador das receitas. Ex: dentro da origem de receita “Impostos, taxas e contribuições de melhoria”, podemos identificar as espécies “taxas” e “impostos”. 
+Desdobramento 1; Desdobramento para identificação de peculiaridades de cada receita.
+Desdobramento 2; Desdobramento para identificação de peculiaridades de cada receita.
+Desdobramento 3; Desdobramento para identificação de peculiaridades de cada receita.
+Tipo de Receita; Identifica o tipo de arrecadação a que se refere a receita. Exemplo, receita de multas e juros, arrecadação principal e etc.
+Item da Receita; Detalhamento da classificação orçamentária da receita referente ao tipo de receita.
+Subitem da Receita; Detalhamento da classificação orçamentária da receita referente ao item de receita.
+Fonte de Recurso; Indica a origem do dinheiro arrecadado. Combina a origem do dinheiro às despesas orçamentárias. Esta vinculação visa demonstrar o montante de dinheiro que já está comprometido com o atendimento de determinadas finalidades, e aquele que pode ser livremente alocado.
+Código Fonte de Recurso; Código da Fonte de Recurso.
+Código Fonte de Recurso - Portaria STN nº 710/2021 ; Código da Fonte de Recurso  Portaria STN nº 710/2021. 
+ Fonte de Recurso - Portaria STN nº 710/2021 ; Indicam a classificação das fontes ou destinações de recursos utilizados pelos Estados, Distrito Federal e Municípios, conforme previsto na Portaria STN nº 710/2021.
+Órgão; Entidade da administração direta, inclusive fundo ou órgão autônomo e da administração indireta a que o orçamento consigna dotações especificas para realização de seus programas de trabalho.
+Natureza Jurídica; Descrição da natureza jurídica no qual o órgão executor está incluído.
+Valor previsto inicial; Valor estimado da arrecadação para o ano consultado, previsto na Lei Orçamentária Anual (LOA).
+Valor previsto atualizado; Valor estimado inicial para arrecadação no ano consultado, previsto na Lei Orçamentária Anual, atualizado ao longo do ano.
+Valor arrecadado; Valor financeiro que entrou nos cofres públicos no período consultado.
+% Arrecadado; Relação entre o valor arrecadado e o valor previsto inicial.
