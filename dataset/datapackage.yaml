@@ -1,0 +1,185 @@
+name: dicionario_dados
+owner_org: ''
+profile: data-package
+resources:
+  - description: Insira a descrição/explicação detalhada deste recurso.
+    dialect:
+      delimiter: ;
+    encoding: utf-8-sig
+    format: csv
+    hashing: md5
+    name: dicionario_convenios_saida
+    path: data/dicionario_convenios_saida.csv
+    profile: tabular-data-resource
+    schema:
+      fields:
+        - name: campo
+          type: any
+        - name: descricao
+          type: any
+        - name: unnamed_2
+          type: string
+    scheme: file
+    title: Insira um título humanamente legível para este recurso.
+  - description: Insira a descrição/explicação detalhada deste recurso.
+    dialect:
+      delimiter: ;
+    encoding: utf-8-sig
+    format: csv
+    hashing: md5
+    name: dicionario_despesa_publica
+    path: data/dicionario_despesa_publica.csv
+    profile: tabular-data-resource
+    schema:
+      fields:
+        - name: tipo_de_consulta
+          type: string
+        - name: campo
+          type: string
+        - name: descricao
+          type: string
+        - name: unnamed_3
+          type: any
+    scheme: file
+    title: Insira um título humanamente legível para este recurso.
+  - description: Insira a descrição/explicação detalhada deste recurso.
+    dialect:
+      delimiter: ;
+    encoding: utf-8-sig
+    format: csv
+    hashing: md5
+    name: dicionario_diaria_viagens
+    path: data/dicionario_diaria_viagens.csv
+    profile: tabular-data-resource
+    schema:
+      fields:
+        - name: campo
+          type: any
+        - name: descricao
+          type: any
+        - name: unnamed_2
+          type: string
+    scheme: file
+    title: Insira um título humanamente legível para este recurso.
+  - description: Insira a descrição/explicação detalhada deste recurso.
+    dialect:
+      delimiter: ;
+    encoding: utf-8-sig
+    format: csv
+    hashing: md5
+    name: dicionario_doacoes_comodatos
+    path: data/dicionario_doacoes_comodatos.csv
+    profile: tabular-data-resource
+    schema:
+      fields:
+        - name: campo
+          type: string
+        - name: descricao
+          type: string
+    scheme: file
+    title: Insira um título humanamente legível para este recurso.
+  - description: Insira a descrição/explicação detalhada deste recurso.
+    dialect:
+      delimiter: ;
+    encoding: utf-8-sig
+    format: csv
+    hashing: md5
+    name: dicionario_licitacoes_contratos
+    path: data/dicionario_licitacoes_contratos.csv
+    profile: tabular-data-resource
+    schema:
+      fields:
+        - name: campo
+          type: string
+        - name: descricao
+          type: string
+    scheme: file
+    title: Insira um título humanamente legível para este recurso.
+  - description: Insira a descrição/explicação detalhada deste recurso.
+    dialect:
+      delimiter: ;
+    encoding: utf-8-sig
+    format: csv
+    hashing: md5
+    name: dicionario_receita_publica
+    path: data/dicionario_receita_publica.csv
+    profile: tabular-data-resource
+    schema:
+      fields:
+        - name: campo
+          type: string
+        - name: descricao
+          type: string
+    scheme: file
+    title: Insira um título humanamente legível para este recurso.
+  - description: Insira a descrição/explicação detalhada deste recurso.
+    dialect:
+      delimiter: ;
+    encoding: utf-8-sig
+    format: csv
+    hashing: md5
+    name: dicionario_relatorio_execucao_emendas
+    path: data/dicionario_relatorio_execucao_emendas.csv
+    profile: tabular-data-resource
+    schema:
+      fields:
+        - name: campo
+          type: string
+        - name: descricao
+          type: string
+    scheme: file
+    title: Insira um título humanamente legível para este recurso.
+  - description: Insira a descrição/explicação detalhada deste recurso.
+    dialect:
+      delimiter: ;
+    encoding: utf-8-sig
+    format: csv
+    hashing: md5
+    name: dicionario_remuneracao
+    path: data/dicionario_remuneracao.csv
+    profile: tabular-data-resource
+    schema:
+      fields:
+        - name: campo
+          type: string
+        - name: titulo
+          type: string
+        - name: descricao
+          type: string
+    scheme: file
+    title: Insira um título humanamente legível para este recurso.
+  - description: Insira a descrição/explicação detalhada deste recurso.
+    dialect:
+      delimiter: ;
+    encoding: utf-8-sig
+    format: csv
+    hashing: md5
+    name: dicionario_renuncia_desoneracao
+    path: data/dicionario_renuncia_desoneracao.csv
+    profile: tabular-data-resource
+    schema:
+      fields:
+        - name: campo
+          type: string
+        - name: descricao
+          type: string
+    scheme: file
+    title: Insira um título humanamente legível para este recurso.
+  - description: Insira a descrição/explicação detalhada deste recurso.
+    dialect:
+      delimiter: ;
+    encoding: utf-8-sig
+    format: csv
+    hashing: md5
+    name: dicionario_transferencia_impostos
+    path: data/dicionario_transferencia_impostos.csv
+    profile: tabular-data-resource
+    schema:
+      fields:
+        - name: campo
+          type: string
+        - name: descricao
+          type: string
+    scheme: file
+    title: Insira um título humanamente legível para este recurso.
+title: Dicionario_dados
